@@ -65,7 +65,7 @@ export function Video(props: VideoProps) {
                             Comunidade do Discord
                         </a>
 
-                        <a href="" className="p-4 text-sm border border-blue-500 text-blue-500 flex items-center roudend font-bold uppercase gap-2 justify-center hover:bg-blue-500 text-gray-900 transition-colors">
+                        <a href="" className="p-4 text-sm border border-blue-500 text-green-300 flex items-center roudend font-bold uppercase gap-2 justify-center hover:text-gray-700 hover:bg-blue-500 transition-colors">
                             <Lightning size={24} />
                             Acesse o desafio
                         </a>
@@ -73,7 +73,7 @@ export function Video(props: VideoProps) {
                 </div>
             </div>
 
-            <div className="gap-8 mt-20 grid grid-cols-2">
+            <div className="gap-8 mt-20 ml-7 grid grid-cols-2">
                 <a href="" className="bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors">
                     <div className="bg-green-700 h-full p-6 flex items-center">
                         <FileArrowDown size={40} />

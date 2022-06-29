@@ -5,7 +5,6 @@ module.exports = {
     theme: {
       backgroundImage: {
         blur: 'url(/src/assets/blur-background.png)',
-        blur: 'url(/src/assets/React-js.png)'
       },
       colors: {
             green: {
